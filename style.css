@@ -28,6 +28,7 @@ body {
   font-weight: 600;
   font-size: 1.5rem;
   cursor: pointer;
+  outline: none;
 }
 .sliderBtn:hover {
   background-color: rgba(48, 5, 50, 1);
